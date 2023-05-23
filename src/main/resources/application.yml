@@ -26,8 +26,8 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tHSmNFCB6zz8R3V5pYF
-    accessKeySecret: X1yezgbDkuBBoYQ2xrZvrYx3lmfkk0
+    accessKeyId: ************
+    accessKeySecret: *************
     bucketName: tlias-manage
 
 #spring事务管理日志
